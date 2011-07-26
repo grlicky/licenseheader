@@ -15,4 +15,12 @@
 
   <name>org.licenseheader:licenseheader-cli</name>
 
+  <dependencies>
+    <dependency>
+      <groupId>org.licenseheader</groupId>
+      <artifactId>licenseheader</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+  </dependencies>
+
 </project>
