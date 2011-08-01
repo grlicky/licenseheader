@@ -45,6 +45,7 @@
   <modules>
     <module>licenseheader</module>
     <module>licenseheader-cli</module>
+    <module>licenseheader-maven-plugin</module>
   </modules>
 
   <dependencies>
